@@ -1,0 +1,10 @@
+README - Chemical Engines v.0.1.0 for KSP 1.2.2
+--------------------------------------------------------------------------------------------------------------------------------------
+This mod requires RealFuels by NathanKell to work -> http://bit.ly/1cgOqD9
+
+INSTALLATION:
+Remove any existing version of the mod; then copy the ChemEngines and RealFuels-ChemEngines folders to Kerbal Space Program/GameData.
+
+INSTRUCTIONS:
+The ChemEngines folder contains the models, textures, and configs of the additional engines provided with the mod, together with plume effects. MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745) is used in order to give KSP information about the currently installed version of the mod.
+The RealFuels-ChemEngines folder contains the engine definitions for RealFuels.
