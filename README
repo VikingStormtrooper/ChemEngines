@@ -8,3 +8,6 @@ Remove any existing version of the mod; then copy the ChemEngines and RealFuels-
 INSTRUCTIONS:
 The ChemEngines folder contains the models, textures, and configs of the additional engines provided with the mod, together with plume effects. MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745) is used in order to give KSP information about the currently installed version of the mod.
 The RealFuels-ChemEngines folder contains the engine definitions for RealFuels.
+
+TO DO:
+Create new parts, add emissive shaders to nozzles, create ad hoc FX. Future engines will need real UV maps.
