@@ -1,4 +1,4 @@
-README - Chemical Engines v.0.1.0 for KSP 1.2.2
+README - Chemical Engines v. 0.1.0 for KSP 1.2.2
 --------------------------------------------------------------------------------------------------------------------------------------
 This mod requires RealFuels by NathanKell to work -> http://bit.ly/1cgOqD9
 
@@ -11,3 +11,6 @@ The RealFuels-ChemEngines folder contains the engine definitions for RealFuels.
 
 TO DO:
 Create new parts, add emissive shaders to nozzles, create ad hoc FX. Future engines will need real UV maps.
+
+CHANGELOG:
+v. 0.1.0 01/03/17 - First working engine, still lots of things to do
